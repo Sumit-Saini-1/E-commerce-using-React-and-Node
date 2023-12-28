@@ -1,0 +1,24 @@
+.blue{
+    border: none;
+    background: blue;
+    border-radius: 5px;
+    font-size: 15px;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+    padding-block: 5px;
+    padding-inline: 10px;
+    user-select: none;
+}
+.red{
+    border: none;
+    background: red;
+    border-radius: 5px;
+    font-size: 15px;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+    padding-block: 5px;
+    padding-inline: 10px;
+    user-select: none;
+}

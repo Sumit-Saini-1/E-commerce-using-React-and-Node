@@ -1,0 +1,11 @@
+.productsContainer{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-auto-rows: 50vh;
+    column-gap: 10px;
+    row-gap: 10px;
+    width: inherit;
+    min-height: 80vh;
+    background-color: #f0f0f0;
+    padding: 10px;
+}

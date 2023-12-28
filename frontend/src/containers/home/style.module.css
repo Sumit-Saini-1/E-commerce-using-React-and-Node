@@ -1,0 +1,23 @@
+.productsContainer{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-auto-rows: 40vh;
+    column-gap: 10px;
+    row-gap: 10px;
+    width: inherit;
+    min-height: 80vh;
+    background-color: #f0f0f0;
+    padding: 10px;
+}
+.paging{
+    display: flex;
+    justify-content: center;
+    background-color: #f0f0f0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.searchDiv{
+    position: absolute;
+    top: 15px;
+    left: 40%;
+}
